@@ -82,7 +82,7 @@ Based on the analysis:
 
 **Adeniyi A.**
 Business/Data Analyst/Zonal Head of Operations @ Access Bank Plc | PL-300, BIDA®, FTIP®, MBA, ACIB, CMC, FIMC, FCILRM | PowerBI, Tableau, SQL, Python,  Advance Excel
-* MBA (Agribusiness)
+* MBA
 * DBA in Business Analytics (in progress)
 
 ## Contact
