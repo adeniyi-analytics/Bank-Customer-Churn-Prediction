@@ -87,7 +87,7 @@ Business/Data Analyst/Zonal Head of Operations @ Access Bank Plc | PL-300, BIDAÂ
 
 ## Contact
 * LinkedIn: adeniyi-ajagunna-7786b993
-* GitHub: *(Your GitHub profile link)*
+* GitHub:(https://github.com/adeniyi-analytics)
 
 
 
